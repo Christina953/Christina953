@@ -4,7 +4,7 @@
 🌱 Curious mind, just starting my coding journey  
 💡 The best time to start was yesterday. The next best time is now.
 
-![Daily Badge](https://badge.ava.kim/badge.svg?tz=Europe%2FTallinn&pack=motivation&style=flat-square&color=2ea44f)
+![Daily Badge](https://badge.ava.kim/badge.svg?tz=Europe%2FTallinn&pack=weekday&style=flat-square&color=2ea44f)
 
 <!--
 **Christina953/Christina953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
